@@ -1,0 +1,17 @@
+#include <stdio.h>
+
+int main(void){
+	int vet[4];
+	int *p;
+	int v,i;
+	p=vet; //referencia o apontador p à partir da posicao 0 do vetor
+	for (v=0;v<4;v++)
+	{
+		*p=0; //atribui 0 a posicao atual do apontador
+		p++; //incrementa o endereco do apontador, incrementando automaticamente a posicao do vetor
+	}
+	for (i=0;i<4;i++)
+		printf("%d\t",vet[i]);
+getchar();
+}
+
