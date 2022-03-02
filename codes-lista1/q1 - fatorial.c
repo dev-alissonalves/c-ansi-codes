@@ -3,7 +3,7 @@
 
 int main(void){
 int num, cont, fat =1;
-   printf("Calculo do Fatorial!\n\n");
+   printf("Calcular fatorial\n\n");
    printf("Digite o numero: \n");
    scanf("%d", &num);
    for(cont = num; cont > 1; cont--){
