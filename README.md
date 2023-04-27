@@ -1,4 +1,10 @@
 # c-ansi-codes
-# By @alissonoliveira
-# Neste repositório você vai encontrar códigos na linguagem C-ANSI da época em que iniciei a programar na faculdade, em meados de 2013 a 2015. 
+# By @alissonoliveiraof
+# Neste repositório você vai encontrar códigos de resolução de problemas básicos e complexos de algoritmos e estrutura de dados na linguagem C-ANSI.
+# ASSUNTOS: 
+- Lista de exercícios propostos
+- Funções
+- Matrizes e Vetores
+- Structs
+- Ponteiros
  
